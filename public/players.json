@@ -1,0 +1,259 @@
+[
+    {
+      "id": 1,
+      "name": "Virat Kohli",
+      "image": "public/assets/virat-kohli.png",
+      "nationality": "India",
+      "playingRole": "Batter",
+      "battingType": "Right-hand bat",
+      "basePrice": "240000",
+      "rating": 9.5
+    },
+    {
+      "id": 2,
+      "name": "Babar Azam",
+      "image": "public/assets/babar-azam.jpg",
+      "nationality": "Pakistan",
+      "playingRole": "Batter",
+      "battingType": "Right-hand bat",
+      "basePrice": "180000",
+      "rating": 9.0
+    },
+    {
+      "id": 3,
+      "name": "Steve Smith",
+      "image": "public/assets/steven-smith.jpg",
+      "nationality": "Australia",
+      "playingRole": "Batter",
+      "battingType": "Right-hand bat",
+      "basePrice": "216000",
+      "rating": 8.9
+    },
+    {
+      "id": 4,
+      "name": "Kane Williamson",
+      "image": "public/assets/kane-williamson.jpg",
+      "nationality": "New Zealand",
+      "playingRole": "Batter",
+      "battingType": "Right-hand bat",
+      "basePrice": "240000",
+      "rating": 9.1
+    },
+    {
+      "id": 5,
+      "name": "Joe Root",
+      "image": "public/assets/joe-root.jpg",
+      "nationality": "England",
+      "playingRole": "Batter",
+      "battingType": "Right-hand bat",
+      "basePrice": "204000",
+      "rating": 8.7
+    },
+    {
+      "id": 6,
+      "name": "Rashid Khan",
+      "image": "public/assets/Rashid-Khan.jpg",
+      "nationality": "Afghanistan",
+      "playingRole": "Bowler",
+      "bowlingType": "Right-arm legbreak",
+      "basePrice": "240000",
+      "rating": 9.3
+    },
+    {
+      "id": 7,
+      "name": "Jasprit Bumrah",
+      "image": "public/assets/jasprit-bumrah.jpg",
+      "nationality": "India",
+      "playingRole": "Bowler",
+      "bowlingType": "Right-arm fast",
+      "basePrice": "240000",
+      "rating": 9.4
+    },
+    {
+      "id": 8,
+      "name": "Mitchell Starc",
+      "image": "public/assets/mitchel-starc.jpg",
+      "nationality": "Australia",
+      "playingRole": "Bowler",
+      "bowlingType": "Left-arm fast",
+      "basePrice": "240000",
+      "rating": 9.0
+    },
+    {
+      "id": 9,
+      "name": "Ben Stokes",
+      "image": "public/assets/ben-stokes.jpg",
+      "nationality": "England",
+      "playingRole": "All-Rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm fast-medium",
+      "basePrice": "240000",
+      "rating": 9.2
+    },
+    {
+      "id": 10,
+      "name": "Hardik Pandya",
+      "image": "public/assets/hardik-pandya.jpg",
+      "nationality": "India",
+      "playingRole": "All-Rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast-medium",
+      "basePrice": "216000",
+      "rating": 8.8
+    },
+    {
+      "id": 11,
+      "name": "MS Dhoni",
+      "image": "public/assets/ms-dhoni.jpg",
+      "nationality": "India",
+      "playingRole": "Wicketkeeper",
+      "battingType": "Right-hand bat",
+      "basePrice": "240000",
+      "rating": 9.8
+    },
+    {
+      "id": 12,
+      "name": "Rohit Sharma",
+      "image": "public/assets/rohit-sharma.jpeg",
+      "nationality": "India",
+      "playingRole": "Batter",
+      "battingType": "Right-hand bat",
+      "basePrice": "240000",
+      "rating": 9.1
+    },
+    {
+      "id": 13,
+      "name": "Quinton de Kock",
+      "image": "public/assets/quinton-de-cock.jpg",
+      "nationality": "South Africa",
+      "playingRole": "Wicketkeeper",
+      "battingType": "Left-hand bat",
+      "basePrice": "192000",
+      "rating": 8.7
+    },
+    {
+      "id": 14,
+      "name": "Shaheen Afridi",
+      "image": "public/assets/shaheen_afridi.jpg",
+      "nationality": "Pakistan",
+      "playingRole": "Bowler",
+      "bowlingType": "Left-arm fast",
+      "basePrice": "204000",
+      "rating": 8.9
+    },
+    {
+      "id": 15,
+      "name": "Andre Russell",
+      "image": "public/assets/andre-russel.jpg",
+      "nationality": "West Indies",
+      "playingRole": "All-Rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "basePrice": "240000",
+      "rating": 9.0
+    },
+    {
+      "id": 16,
+      "name": "David Warner",
+      "image": "public/assets/wavid-warner.png",
+      "nationality": "Australia",
+      "playingRole": "Batter",
+      "battingType": "Left-hand bat",
+      "basePrice": "240000",
+      "rating": 8.8
+    },
+    {
+      "id": 17,
+      "name": "Shubman Gill",
+      "image": "public/assets/shubman-gill.png",
+      "nationality": "India",
+      "playingRole": "Batter",
+      "battingType": "Right-hand bat",
+      "basePrice": "144000",
+      "rating": 8.5
+    },
+    {
+      "id": 18,
+      "name": "Mohammed Shami",
+      "image": "public/assets/shami.jpg",
+      "nationality": "India",
+      "playingRole": "Bowler",
+      "bowlingType": "Right-arm fast",
+      "basePrice": "180000",
+      "rating": 8.6
+    },
+    {
+      "id": 19,
+      "name": "Faf du Plessis",
+      "image": "public/assets/faf-du-plessis.jpg",
+      "nationality": "South Africa",
+      "playingRole": "Batter",
+      "battingType": "Right-hand bat",
+      "basePrice": "180000",
+      "rating": 8.4
+    },
+    {
+      "id": 20,
+      "name": "Trent Boult",
+      "image": "public/assets/trent-boult.jpg",
+      "nationality": "New Zealand",
+      "playingRole": "Bowler",
+      "bowlingType": "Left-arm fast-medium",
+      "basePrice": "240000",
+      "rating": 9.0
+    },
+    {
+      "id": 21,
+      "name": "Glenn Maxwell",
+      "image": "public/assets/glenn-maxwell.jpg",
+      "nationality": "Australia",
+      "playingRole": "All-Rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "basePrice": "216000",
+      "rating": 8.9
+    },
+    {
+      "id": 22,
+      "name": "KL Rahul",
+      "image": "public/assets/kl-rahul.jpg",
+      "nationality": "India",
+      "playingRole": "Wicketkeeper",
+      "battingType": "Right-hand bat",
+      "basePrice": "216000",
+      "rating": 8.6
+    },
+    {
+      "id": 23,
+      "name": "Liam Livingstone",
+      "image": "public/assets/liam-livingstone.jpg",
+      "nationality": "England",
+      "playingRole": "All-Rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm legbreak",
+      "basePrice": "180000",
+      "rating": 8.5
+    },
+    {
+      "id": 24,
+      "name": "Sam Curran",
+      "image": "public/assets/sam-curran.jpg",
+      "nationality": "England",
+      "playingRole": "All-Rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Left-arm medium-fast",
+      "basePrice": "240000",
+      "rating": 8.8
+    },
+    {
+      "id": 25,
+      "name": "Suryakumar Yadav",
+      "image": "public/assets/surya-kumar-yadav.jpg",
+      "nationality": "India",
+      "playingRole": "Batter",
+      "battingType": "Right-hand bat",
+      "basePrice": "228000",
+      "rating": 9.1
+    }
+  ]
+  
